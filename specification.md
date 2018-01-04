@@ -1,0 +1,14 @@
+- The system should support multiple photo projects like “Wiki Loves Earth”.
+- A global organizer should be able to manage all projects.
+- A project should have a variable number of organizers.
+- A project organizer (or organizer) should be able to manage the projects for which she has the corresponding permissions.
+- A project should have a variable number of photos.
+- A project should have a variable number of voting rounds.
+- A project should have a variable number of jurors.
+- A juror should be able to vote for every photo in a project once per round.
+- A juror should be able to leave comments per photo.
+
+- The voting rounds should build upon each other – the best photos from round `N` should be automatically included in round `N+1`.
+- The voting procedure should support two modes:
+  - thumbs up / thumbs down
+  - a rating scale from 0 to 10
